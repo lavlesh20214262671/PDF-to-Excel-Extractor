@@ -8,11 +8,10 @@ MERN PDF Table Extractor is a full-stack web application that allows users to up
 
 ## Features
 
-- Upload PDF files via drag-and-drop or file selection.
-- Extract tables from PDFs using `pdf-parse` and `tesseract.js`.
+-  PDF Upload  files via drag-and-drop or file selection.
+- Extract tables from PDFs using regex.
 - Download extracted data as an Excel file.
 - Uses MongoDB for storing extracted data.
-- Dark Mode support for better user experience.
 
 ## Tech Stack
 
