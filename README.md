@@ -78,13 +78,4 @@ MERN PDF Table Extractor is a full-stack web application that allows users to up
 | GET    | `/api/data`   | Get extracted table data  |
 | GET    | `/api/download/:filename` | Download the generated Excel file |
 
-## Author
 
-Lavlesh Kumar
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-This follows your exact format while integrating MongoDB and maintaining clarity for GitHub. 🚀
