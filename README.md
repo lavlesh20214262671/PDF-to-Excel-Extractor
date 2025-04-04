@@ -38,11 +38,8 @@ MERN PDF Table Extractor is a full-stack web application that allows users to up
    ```sh
    npm install
    ```
-3. Create a `.env` file in the backend folder and add:
-   ```env
-   MONGO_URI=your_mongodb_connection_string
-   PORT=3000
-   ```
+3.  PORT=3000
+
 4. Start the backend server:
    ```sh
    npm start
