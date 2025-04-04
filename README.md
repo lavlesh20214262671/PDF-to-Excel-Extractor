@@ -62,10 +62,9 @@ MERN PDF Table Extractor is a full-stack web application that allows users to up
 
 ### Running the Project
 
-1. Ensure MongoDB is running.
-2. Start the backend server (`npm start` in the `backend` folder).
-3. Start the frontend (`npm start` in the `frontend` folder).
-4. Open `http://localhost:3000` in your browser.
+1. Start the backend server (`npm start` in the `backend` folder).
+2. Start the frontend (`npm start` in the `frontend` folder).
+3. Open `http://localhost:3000` in your browser.
 
 ## API Endpoints
 
